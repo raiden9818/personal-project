@@ -1,0 +1,4 @@
+﻿  WordCount.cpp
+e:\软工作业\wordcount\wordcount\wordcount\wordcount.cpp(56): warning C4101: “wd”: 未引用的局部变量
+e:\软工作业\wordcount\wordcount\wordcount\wordcount.cpp(168): warning C4101: “lines”: 未引用的局部变量
+  WordCount.vcxproj -> E:\软工作业\wordcount\WordCount\Debug\WordCount.exe
